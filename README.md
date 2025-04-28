@@ -31,9 +31,3 @@ Here are some ideas to get you started:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=iamsagnik&icon=0&color=3)](https://visitcount.itsvg.in)
-
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@Nimbus10/30-nites-of-code)  
-  ![@Nimbus10 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Nimbus10)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
