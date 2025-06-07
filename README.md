@@ -23,8 +23,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫 About Me:
-🔭 I’m currently working on a disaster response project that integrates web scraping, machine learning, and offline location-sharing technology to improve emergency response times.<br>👯 I’m looking to collaborate on enhancing the machine learning model for more accurate emergency detection and developing efficient web scraping techniques.<br>🤝 I’m looking for help with advanced AI model integration, mobile app development, and data-driven decision-making systems.<br>🌱 I’m currently learning NLP and improving my skills in ML and real-time data monitoring systems.<br>😄 Pronouns: He/Him<br>💬 Ask me about predictive maintenance, generative AI.<br>⚡ Fun fact I also love football and anime
+## 💫 About Me:
+
+- 🔭 Currently working on a **Portfolio**
+- 👯 Open to collaboration on:
+  - Enhancing ML models for detection
+  - new AI architecture   
+- 🤝 Seeking help with:
+  - Advanced AI model integration    
+  - Real-time data systems  
+- 🌱 Learning **NLP**, improving ML skills, and real-time data monitoring  
+- 💬 Ask me about: Humans and dark arts  
+- ⚡ Fun fact: I love **football** and **dancing**  
+- 😄 Pronouns: He/Him  
 
 
 ## 🌐 Socials:
