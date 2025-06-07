@@ -46,7 +46,13 @@ Here are some ideas to get you started:
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=iamsagnik&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iamsagnik&theme=gotham&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsagnik&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=iamsagnik&icon=0&color=3)](https://visitcount.itsvg.in)
+
+## 🔮 Upcoming Works:
+- `Text-flow`: An auto-grad engine to create human-readable names (no numbers in names, ever 😤)
+- Updating my portfolio UI and backend
+- The rest is in the back of my head
+
+---
+
