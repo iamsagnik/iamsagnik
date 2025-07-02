@@ -18,8 +18,7 @@
   - Real-time data systems  
 - 🌱 Learning **NLP**, improving ML skills, and real-time data monitoring  
 - 💬 Ask me about: Humans and dark arts  
-- ⚡ Fun fact: I love **football** and **dancing**  
-- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I love **football** and **dancing**   
 
 
 ## 🌐 Socials:
