@@ -21,8 +21,9 @@
 - ⚡ Fun fact: I love **football** and **dancing**
 
 <p>
-  Make sure to visit my portfolio - <a href="https://iamsagnik.github.io/Portfolio/" target="_blank">Click Here !!!</a>
+  Make sure to visit my portfolio — <a href="https://iamsagnik.github.io/Portfolio/">Click Here !!! 🔗</a> (opens in the same tab thus please right-click and open in new tab)
 </p>
+
 
 
 
