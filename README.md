@@ -19,7 +19,11 @@
 - 🌱 Learning **NLP**, improving ML skills, and real-time data monitoring  
 - 💬 Ask me about: Humans and dark arts  
 - ⚡ Fun fact: I love **football** and **dancing**
--  Make sure to visit my portfolio - [Click Here !!!](https://iamsagnik.github.io/Portfolio/)   
+
+<p>
+  Make sure to visit my portfolio - <a href="https://iamsagnik.github.io/Portfolio/" target="_blank">Click Here !!!</a>
+</p>
+
 
 
 ## 🌐 Socials:
