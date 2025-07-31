@@ -45,10 +45,11 @@
 ---
 
 ## 📊 GitHub Stats:
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamsagnik&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamsagnik&theme=gotham&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iamsagnik&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats (May not load if API fails)" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamsagnik&theme=gotham&hide_border=false" alt="GitHub Streak (May not load if API fails)" />
 </p>
 
 ---
